@@ -1,0 +1,84 @@
+[
+    {
+        "name": "Melbourne",
+        "local_names": {
+            "de": "Melbourne",
+            "be": "Мельбурн",
+            "fi": "Melbourne",
+            "mk": "Мелбурн",
+            "sl": "Melbourne",
+            "it": "Melbourne",
+            "zh": "墨爾本",
+            "uk": "Мельбурн",
+            "ko": "멜버른",
+            "mr": "मेलबर्न",
+            "hi": "मेलबॉर्न",
+            "bg": "Мелбърн",
+            "az": "Melburn",
+            "fr": "Melbourne",
+            "kn": "ಮೆಲ್ಬೋರ್ನ್",
+            "pt": "Melbourne",
+            "bn": "মেলবোর্ন",
+            "ru": "Мельбурн",
+            "hr": "Melbourne",
+            "sr": "Мелбурн",
+            "lt": "Melburnas",
+            "sv": "Melbourne",
+            "is": "Melbourne",
+            "eo": "Melburno",
+            "el": "Μελβούρνη",
+            "oc": "Melbourne",
+            "hu": "Melbourne",
+            "he": "מלבורן",
+            "en": "Melbourne",
+            "es": "Melbourne",
+            "pl": "Melbourne",
+            "mi": "Poipiripi",
+            "ar": "ملبورن",
+            "ja": "メルボルン",
+            "la": "Melburnia"
+        },
+        "lat": -37.8142454,
+        "lon": 144.9631732,
+        "country": "AU",
+        "state": "Victoria"
+    },
+    {
+        "name": "Melbourne",
+        "local_names": {
+            "ru": "Мельбурн",
+            "sr": "Мелбурн",
+            "uk": "Мелборн",
+            "en": "Melbourne",
+            "bn": "মেলবোর্ন",
+            "ja": "メルボーン"
+        },
+        "lat": 28.0785034,
+        "lon": -80.6077908,
+        "country": "US",
+        "state": "Florida"
+    },
+    {
+        "name": "Melbourne",
+        "lat": 41.9430186,
+        "lon": -93.1030319,
+        "country": "US",
+        "state": "Iowa"
+    },
+    {
+        "name": "Melbourne",
+        "local_names": { "en": "Melbourne" },
+        "lat": -37.8141705,
+        "lon": 144.9655616,
+        "country": "AU",
+        "state": "Victoria"
+    },
+    {
+        "name": "Melbourne CP",
+        "local_names": { "en": "Melbourne CP" },
+        "lat": 52.8228134,
+        "lon": -1.4283564,
+        "country": "GB",
+        "state": "England"
+    }
+]
